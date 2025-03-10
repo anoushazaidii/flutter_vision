@@ -33,7 +33,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 31
-    namespace 'com.vladi.flutter_vision' // Add this line
+    namespace 'com.vladih.computer_vision.flutter_vision' // Add this line
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
